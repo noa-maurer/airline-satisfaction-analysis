@@ -2,10 +2,11 @@
 ## Project Summary
 
 This project analyzes airline passenger satisfaction using a real-world dataset (from 2018). 
-The goal was to identify key factors influencing customer satisfaction, such as service quality, delays, and travel class.
+The goal was to identify key factors influencing customer satisfaction, such as service quality, customers' loyalty, travel class and other customer attributes.
 
-The analysis included data cleaning, exploratory data analysis, statistical testing, and effect size evaluation.
-Results show that service-related variables have a strong impact on satisfaction, while delays also impact satisfaction slightly.
+The analysis included data cleaning, exploratory data analysis, correlation analysis, and comperative analysis between satisfied and dissatisfied customers.
+
+Main results show that for different groups of customers (e.g. by travel class or loyalty), different service-related variables are associated with overall customer satisfaction. 
 
 The project combines statistical analysis with practical interpretation to support decision-making from a customer experience perspective.
 
