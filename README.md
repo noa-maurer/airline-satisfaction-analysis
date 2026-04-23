@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/johndddddd/customer-satisfaction
 ## Notebook
 
 - [View the full notebook on GitHub](passenger-satisfaction-project.ipynb)
-- [View the notebook on Kaggle]([https://your-kaggle-link](https://www.kaggle.com/code/noamaurer/passenger-satisfaction-project/notebook))
+- [View the notebook on Kaggle](https://www.kaggle.com/code/noamaurer/passenger-satisfaction-project)
 
 ## Key Insight Visualization
 
